@@ -1,3 +1,1 @@
-https://github.com/Bloogefest/posmotri-v-okno
-
-mda
+https://github.com/Bloogefest/posmotri-v-okno-ad
